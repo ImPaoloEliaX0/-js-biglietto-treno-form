@@ -1,0 +1,57 @@
+body {
+    background-color: #b91450;
+}
+
+h2 {
+    color: white;
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 50px;
+    margin: 50px 0px;
+}
+
+h4 {
+    font-weight: bolder;
+}
+
+.container {
+    width: 80%;
+    background-color: white;
+
+}
+
+.container-up {
+    width: 80%;
+    background-color: white;
+    border-radius: 10px;
+    padding: 30px;
+    box-shadow:  10px 10px 10px rgba(0, 0, 0, 0.2);
+}
+
+.select {
+    border-color: #b91450;
+    border-radius: 10px;
+}
+
+.text-red {
+    color: #b91450;
+    font-weight: bolder;
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+
+button {
+    border-radius: 10px;
+    background-color: #cccccc;
+    color: #b91450;
+    font-weight:bolder;
+    font-size: 20px;
+}
+
+.ms_bg_grey {
+    background-color: #808080;
+}
+
+.hidden {
+    visibility: hidden;
+}
